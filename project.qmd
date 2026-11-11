@@ -5,6 +5,12 @@ toc: true
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705 from Spring 2026. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 ## Summary and Goals
 
 It's time for you to unleash your creativity in the final project for the course!  This is your chance to apply everything you've learned so far, from experimental design and model selection to evaluation and optimization. This project gives you the freedom to explore new applications, experiment, and innovate. Creativity, critical thinking, and problem-solving will be key.

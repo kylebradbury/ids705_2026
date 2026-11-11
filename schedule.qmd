@@ -14,6 +14,12 @@ toc: false
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705 from Spring 2026. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 The schedule below is a guide to what we will be covering throughout the semester and is subject to change to meet the learning goals of the class. Check this website regularly for the latest schedule and for course materials that will be posted here through links on the syllabus.
 
 ::: {.callout-tip}

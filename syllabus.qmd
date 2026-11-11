@@ -6,6 +6,12 @@ toc-expand: 3
 number-sections: false
 ---
 
+::: {.callout-warning}
+## Caution - Archived Course
+
+This is an archived website for a past offering of IDS705 from Spring 2026. Please visit [this website](https://kylebradbury.github.io/ids705/) for the latest semester.
+:::
+
 ::: {.callout-note}
 ## Class Time and Location
 - **When**: Tuesday and Thursdays 10:05am - 11:20am
